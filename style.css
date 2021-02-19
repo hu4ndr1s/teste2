@@ -202,7 +202,7 @@ transition: color 1s;
     .banner p{
         font-family:initial;
         color:white;
-        font-size: 1rem;
+        font-size: 1.5rem;
         text-shadow: 0.2rem 0.3rem 2px rgba(0, 0, 0, .4);
         margin-bottom: 2rem;
         opacity: 0;
